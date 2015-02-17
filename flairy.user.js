@@ -31,7 +31,8 @@ function randomColor() {
 }
 
 function randomFont() {
-    return "$" + fonts[Math.floor(Math.random()*fonts.length)] + "|";
+    //return "$" + fonts[Math.floor(Math.random()*fonts.length)] + "|";
+    return "$Sanchez|";
 }
 
 function makeNewFlair() {
