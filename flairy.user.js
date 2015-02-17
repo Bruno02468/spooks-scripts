@@ -28,7 +28,6 @@ function makeNewFlair() {
         flair += randomColor() + me[c];
     }
     CLIENT.attributes.flair = flair;
-    console.log(flair);
     return flair;
 }
 makeNewFlair();
