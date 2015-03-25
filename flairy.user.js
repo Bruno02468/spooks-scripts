@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        Flairy
 // @namespace   http://bruno02468.com/
-// @version     1.0
+// @version     1.1
 // @description Randomizes your flair
-// @match       http://this.spooks.me/*
+// @match       http://*.spooks.me/*
 // @author      Bruno02468
 // ==/UserScript==
 
