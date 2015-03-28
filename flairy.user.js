@@ -38,7 +38,7 @@ function randomFont() {
 function makeNewFlair() {
     var flair = randomFont() + prefix;
     for (c in CLIENT.attributes.nick) {
-        flair += randomColor() + me[c];
+        flair += randomColor() + CLIENT.attributes.nick[c];
     }
     CLIENT.attributes.flair = flair;
     return flair;
