@@ -7,6 +7,12 @@
 // @author      Bruno02468
 // ==/UserScript==
 
+// How to use:
+//     1) Save a copy of the script to your hard drive.
+//     2) Edit that copy to fit your needs.
+//     3) Open it in your browser to load it as a UserScript.
+// (You'll need basic scripting and userscript knowledge...)
+
 //CONFIGURATION - EDIT THOSE VARIABLES
 var flairfont = "Sanchez";                                  // The font used in the flair
 var messagefont = "Source Code Pro";                        // The font used in the messages
